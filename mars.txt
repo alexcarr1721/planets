@@ -1,7 +1,13 @@
+# Mars
+
+##  Weather
 Cold and dry, but everything is my favorite color
 
+## Moons
 The two moons may be a problem for Wolfman
 
+## Weather
 But the Mummy will appreciate the lack of humidity
 
+## Maybe delete?
 An ill-considered change
